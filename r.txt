@@ -1,0 +1,7 @@
+background-color: rgb(227, 227, 233);
+ color: rgb(74, 66, 81);
+
+
+  background-color: rgb(117, 117, 118);
+
+ border: 1px solid rgb(181, 181, 181); 
